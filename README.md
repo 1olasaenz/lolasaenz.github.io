@@ -1,5 +1,5 @@
 LOLAS FOOD CRAWL
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -18,18 +18,13 @@ LOLAS FOOD CRAWL
         Cute, walkable routes with must-orders, price vibes, and tips.
       </p>
 
-      <div class="hero-actions">
-        <a class="btn" href="#crawls">Explore crawls</a>
-        <a class="btn btn-ghost" href="#how">How it works</a>
-      </div>
-    </div>
   </header>
 
   <main class="container">
     <section id="crawls" class="section">
       <div class="section-head">
         <h2>Featured Crawls</h2>
-        <p>Start with one neighborhood and 4–6 stops.</p>
+        <p>Upper East Side.</p>
       </div>
 
       <div class="grid">
